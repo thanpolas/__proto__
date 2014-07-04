@@ -2,7 +2,7 @@
   "private": true,
   "name": "__proto__",
   "version": "0.0.0",
-  "main": "./",
+  "main": "./lib/__proto__",
   "description": "EDIT",
   "homepage": "https://github.com/thanpolas/__proto__",
   "bugs": "https://github.com/thanpolas/__proto__/issues",

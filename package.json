@@ -20,6 +20,9 @@
       "type": "MIT"
     }
   ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
   "scripts": {
     "test": "./node_modules/.bin/grunt jshint:lib && ./node_modules/.bin/mocha -b test/spec -u bdd  -R spec"
   },

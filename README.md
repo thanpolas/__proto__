@@ -64,4 +64,4 @@ console.log(error.toApi());
 
 ## License
 
-Copyright ©2015 Thanasis Polychronakis. Licensed under the MIT license.
+Copyright Thanasis Polychronakis. Licensed under the MIT license.

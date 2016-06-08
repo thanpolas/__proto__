@@ -15,11 +15,9 @@
     "type": "git",
     "url": "https://github.com/thanpolas/__proto__"
   },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ],
+  "license": "MIT",
+  "keywords": [""],
+  "contributors": ["Thanasis Polychronakis"],
   "engines": {
     "node": ">=0.10.0"
   },
